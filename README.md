@@ -1,5 +1,8 @@
 # AMXX CHECKPOINTS PLUG-IN
 
+> [!WARNING]
+> **Do not using for production server, use it just for yourself or fun!**
+
 ### To install:
 
 1. Copy source folders to cstrike folder in your server
