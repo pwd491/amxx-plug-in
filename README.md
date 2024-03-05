@@ -1,7 +1,7 @@
 # AMXX CHECKPOINTS PLUG-IN
 
-> [!WARNING]
-> **Do not using for production server, use it just for yourself or fun!**
+> [!WARNING]  
+> **Do not using for production server, use it just for yourself or fun!**  
 > **Use only 2 checkpoints on map.**
 
 ### To install:
